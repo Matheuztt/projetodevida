@@ -82,6 +82,6 @@ botao:first-child {
 }
 
 .ativo{
-    background-color: gold;
-    border-bottom: 4px solid gold;
+    background-color: black;
+    border-bottom: 4px solid black;
 }
