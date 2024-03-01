@@ -34,12 +34,12 @@ body{
 }
 
 .titulo-principal span {
-    color: gold;
+    color: blue;
 }
 
 .botao{
     font-family: "Crakra Petch", sans-serif;
-    background-color: gold;
+    background-color: black;
     color: var(--branco);
     display: flex;
     justify-content: center;
