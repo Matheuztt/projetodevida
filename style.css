@@ -39,7 +39,7 @@ body{
 
 .botao{
     font-family: "Crakra Petch", sans-serif;
-    background-color: var(--botao-ativo);
+    background-color: gold;
     color: var(--branco);
     display: flex;
     justify-content: center;
