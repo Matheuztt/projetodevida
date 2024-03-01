@@ -83,5 +83,5 @@ botao:first-child {
 
 .ativo{
     background-color: gold;
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid gold;
 }
