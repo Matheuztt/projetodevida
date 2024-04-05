@@ -82,6 +82,6 @@ botao:first-child {
 }
 
 .ativo{
-    background-color: rgb(68, 63, 110);
-    border-bottom: 4px solid rgb(68, 63, 110);
+    background-color: rgb(40, 32, 110);
+    border-bottom: 4px solid rgb(40, 32, 110);
 }
