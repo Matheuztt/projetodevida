@@ -39,7 +39,7 @@ body{
 
 .botao{
     font-family: "Crakra Petch", sans-serif;
-    background-color: #031b09;
+    background-color: #242724;
     color: var(--branco);
     display: flex;
     justify-content: center;
@@ -82,6 +82,6 @@ botao:first-child {
 }
 
 .ativo{
-    background-color: rgb(31, 73, 34);
+    background-color: rgb(97, 184, 97);
     border-bottom: 4px solid rgb(45, 45, 49);
 }
